@@ -26,7 +26,7 @@ questions =  [
     {"id": 24, "question": "Without democracy, a society is nothing.", "effects": {"auth": -1}},
     {"id": 25, "question": "Administrative detention should be outlawed.", "effects": {"auth": -1}},
     {"id": 26, "question": "The smaller the government, the freer the people.", "effects": {"auth": -1}},
-    {"id": 27, "question": "The government should, at most, provide emergency services and law enforcement.", "effects": {"auth": -1}},
+    {"id": 27, "question": "Serving in the IDF should not be mandatory.", "effects": {"auth": -1}},
     {"id": 28, "question": "Police should possess less authority over citizens.", "effects": {"auth": -1}},
     {"id": 29, "question": "School choice should be made by the parents and not by local authorities.", "effects": {"auth": -1}},
     {"id": 30, "question": "Israel cannot be democratic as long as the Palestinians cannot vote.", "effects": {"prog": 1}},
